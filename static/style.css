@@ -1,0 +1,37 @@
+/* static/style.css */
+
+body{
+    background: #f5f7fb;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.title-section h1{
+    font-weight:700;
+    color:#1f2937;
+}
+
+.title-section p{
+    color:#6b7280;
+}
+
+.custom-card{
+    border:none;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+
+textarea{
+    resize:none;
+    border-radius:15px !important;
+}
+
+.btn-primary{
+    border-radius:12px;
+    padding:12px;
+    font-weight:600;
+}
+
+.progress{
+    height:25px;
+    border-radius:15px;
+}
