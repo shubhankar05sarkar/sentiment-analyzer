@@ -1,4 +1,4 @@
-# Sentiment Analysis Dashboard
+# Sentiment Analyzer 
 
 A web-based Sentiment Analysis Dashboard developed using Flask and TextBlob that analyzes user-entered text and classifies it as Positive, Negative, or Neutral. The application also provides polarity and subjectivity scores to help users understand the emotional tone and nature of the text.
 
